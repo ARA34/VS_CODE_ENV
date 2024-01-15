@@ -17,7 +17,5 @@ def blockdiag(n):
             output += (2*i) * tab + top
     return output
 
-print(blockdiag(4))
-    
-
-# 0, 2, 4, 6
+user_in = input()
+print(blockdiag(int(user_in)))

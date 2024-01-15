@@ -1,5 +1,7 @@
-This program takes an input n and outputs an ascii block design with n blocks.
+This program takes a user input n and outputs an ascii block design with n blocks.
 The function that does this is called blockdiag.
+You can run the program by typing "python3 a0.py" in the terminal and then inputing integer n
 
-UCInetID: areyesar
-Student ID: 69754988
+Contact:
+Alex Reyes Aranda
+areyesar@uci.edu
